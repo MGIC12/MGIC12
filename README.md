@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [...](...)
 
-- ⚡ Fun fact **I'm a bit lazy but I do impeccable and organized work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
