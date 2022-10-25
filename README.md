@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mariano</h1>
-<h3 align="center">Web and Mobile development student from Argentina</h3>
+<h3 align="center">Web development student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgic12&label=Profile%20views&color=3ce000&style=flat-square" alt="mgic12" /> </p>
 
