@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [webdev.testing](https://github.com/MGIC12/webdev.testing)
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
 
 - 📫 How to reach me **dev.mgic@gmail.com**
 
