@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgic12&label=Profile%20views&color=29b40e&style=flat-square" alt="mgic12" /> </p>
 
-- 🔭 I’m currently working on [webdev.testing](https://github.com/MGIC12/PEyLW-UNCO-)
+- 🔭 I’m currently working on [PEyLW-UNCo-](https://github.com/MGIC12/PEyLW-UNCO-)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
 
