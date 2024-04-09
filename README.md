@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.seadn.io/gae/EXOHMMD-wXatpjRbYSMqr127gDCSmqxtQ9J5PoV38vJOu_MMKnC8N2EJXlIgq_z-iyDrqntQ25vfg6cNfhWQa7HOrKiHaig_ZxbFf4A?auto=format&dpr=1&w=1000"  />
+  <img height="200" src="https://i.seadn.io/gae/EXOHMMD-wXatpjRbYSMqr127gDCSmqxtQ9J5PoV38vJOu_MMKnC8N2EJXlIgq_z-iyDrqntQ25vfg6cNfhWQa7HOrKiHaig_ZxbFf4A?auto=format&dpr=1&w=1920"/>
 </div>
 
 ###
