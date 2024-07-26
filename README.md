@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Ignoring warnings since 2023 :P<br>📚 I'm currently learning SASS<br>🎯 Goals: Improve and learn new languages/frameworks.</p>
+<p align="left">✨ Ignoring warnings since 2023 :P<br>📚 I'm currently learning Maths and Node.js<br>🎯 Goals: Improve and learn new languages/frameworks.</p>
 
 ###
 
