@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Full Stack Web developer student (Mostly Front-End dev), from Argentina.</p>
+<p align="center">Full Stack Web developer student (Mostly Front-End dev) and QA Automation Engineer, from Argentina.</p>
 
 ###
 
