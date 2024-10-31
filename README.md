@@ -62,13 +62,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
-
-###
-<h1></h1>
-<div align="center">
-  <a href="https://open.spotify.com/user/mariano-infante">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mariano-infante&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
