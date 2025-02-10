@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Ignoring warnings since 2023 :P<br>📚 I'm currently studying from university and a CILSA Scholarship! <br>🎯 Goals: Improve and learn new languages/frameworks.</p>
+<p align="left">✨ Ignoring warnings since 2023 :P<br>📚 I'm currently studying Web Development on college! <br>🎯 Goals: Improve and learn new languages/frameworks.</p>
 
 ###
 
