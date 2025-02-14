@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Full Stack Javascript Developer and QA Automation Engineer, from Argentina.</p>
+<p align="center">Full-Stack Developer and QA Automation Engineer, from Argentina.</p>
 
 ###
 
